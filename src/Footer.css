@@ -1,0 +1,15 @@
+.Footer small {
+  color: floralwhite;
+  font-size: 12px;
+  padding-bottom: 15px;
+}
+.Footer .myname {
+  color: floralwhite;
+  font-weight: bolder;
+}
+.Footer .my-info {
+  color: floralwhite;
+  font-weight: 500;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}

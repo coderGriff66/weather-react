@@ -1,0 +1,68 @@
+.Conditions .card {
+  box-shadow: 8px 8px 8px rgba(12, 0, 124, 0.3);
+  border: rgb(12, 0, 124) solid 2px;
+  border-radius: 4px;
+}
+
+.Conditions .col-5 .col-7 {
+  padding-bottom: 0px;
+}
+
+.Conditions .today {
+  font-size: 18px;
+  list-style-type: none;
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  line-height: 2.5;
+}
+
+.Conditions .skyNow {
+  position: relative;
+  top: -10px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.Conditions .rightside {
+  background: rgba(203, 229, 255, 0.3);
+  border: none;
+}
+
+.Conditions .tempNow {
+  color: floralwhite;
+  font-size: 75px;
+  margin-bottom: 0;
+  position: relative;
+  top: 10px;
+  right: -155px;
+  padding: 0;
+}
+
+.Conditions .icon {
+  image-size: 75px;
+  position: relative;
+  top: 25px;
+  left: 35px;
+}
+
+.Conditions .units {
+  position: relative;
+  top: -100px;
+  right: -210px;
+}
+
+.Conditions .active {
+  color: black;
+  cursor: default;
+  text-decoration: none;
+}
+
+.Conditions .active:hover {
+  text-decoration: none;
+}
+
+.Conditions .your-choice {
+  padding: 10px;
+}
