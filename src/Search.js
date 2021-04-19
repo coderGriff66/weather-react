@@ -1,16 +1,15 @@
 import React from "react";
 
-import "./Search";
-
 export default function Search() {
   return (
+
     <div className="Search">
-      <form className="search-form" id="search-form">
+      <form id="search-form">
         <div className="row your-choice">
           <div className="col-7">
             <input
               type="search"
-              placeholder="ENTER YOR CITY"
+              placeholder="ENTER YOUR CITY"
               autoFocus="on"
               autoComplete="off"
               id="search-city"
